@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\obj\Debug\netcoreapp3.0\venta.Gasolina.csprojAssemblyReference.cache
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\obj\Debug\netcoreapp3.0\venta.Gasolina.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\obj\Debug\netcoreapp3.0\venta.Gasolina.AssemblyInfo.cs
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.exe
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.deps.json
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.runtimeconfig.json
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.runtimeconfig.dev.json
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.dll
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\bin\Debug\netcoreapp3.0\venta.Gasolina.pdb
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\obj\Debug\netcoreapp3.0\venta.Gasolina.dll
+C:\Users\user\source\repos\venta.Gasolina\venta.Gasolina\obj\Debug\netcoreapp3.0\venta.Gasolina.pdb
